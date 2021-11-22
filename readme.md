@@ -2,7 +2,7 @@
 
 Royal Kludge RK61 no hotswap rgb edition, original PID 0x24F.
 
-MCU: SN32F248BF
+MCU: HFD2201KBA (rebrand SN32F248BF)
 
 Tested on this board:
 ![img.png](imgs/board_marking.png)
